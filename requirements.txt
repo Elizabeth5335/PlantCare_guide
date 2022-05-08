@@ -1,0 +1,6 @@
+telebot
+types
+requests
+BeautifulSoup
+telegram.ext
+updater
